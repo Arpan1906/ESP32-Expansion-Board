@@ -27,6 +27,7 @@ This repository contains the design files, schematics, and PCB layouts for an **
 
 ## Top Layer
 <img width="2023" height="1830" alt="TOP_IMAGE" src="https://github.com/user-attachments/assets/fe1992ea-f932-420e-b117-ef3ceef61725" />
+
 ## Bottom Layer
 <img width="5775" height="5224" alt="BOTTOM_IMAGE" src="https://github.com/user-attachments/assets/4c5b838b-7382-4f95-8fee-6a935109b42d" />
 
